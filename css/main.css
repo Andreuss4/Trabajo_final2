@@ -1,0 +1,16 @@
+a {
+    color:inherit;
+}
+body {
+    padding-bottom: 20px;
+}
+
+.btn-lg:hover {
+    background-color:  #F39D18  ;
+}
+.col-lg-4 a:hover{
+    background-color:  #F39D18;
+}
+.col-md-7 span{
+    color:  #F39D18;
+}
